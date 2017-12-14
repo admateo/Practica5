@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practica 5</string>
+    <string name="nombre">Nombre</string>
+    <string name="topping">Topping</string>
+    <string name="crema">Crema</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="cantidad_numero">0</string>
+    <string name="cantidad_mas">+</string>
+    <string name="cantidad_menos">-</string>
+    <string name="pedir">Pedir</string>
+</resources>
